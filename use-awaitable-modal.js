@@ -10,7 +10,7 @@ export const useAwaitableModal = (renderModal) => {
     params: {},
   });
 
-  const renderModalFinal = () => {
+  const renderModalWithParamsAndContext = () => {
     const closeWithError = (error) => {
       promiseRef.current.reject(error);
       setIsVisible(false);
@@ -56,6 +56,6 @@ export const useAwaitableModal = (renderModal) => {
   };
   return {
     openModal,
-    renderModal: renderModalFinal,
+    renderModal: renderModalWithParamsAndContext,
   };
 };
