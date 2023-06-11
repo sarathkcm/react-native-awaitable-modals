@@ -14,4 +14,4 @@ It's easier to imagine them as temporary UI elements that shows up in response t
 
 Read full article: https://sarathkcm.dev/blog/awaitable-modals-in-react-native
 
-![Demo of awaitable modals. Screen recording of a phone screen with buttons that opens different modal popups.](https://github.com/sarathkcm/react-native-awaitable-modals/raw/main/rrn-awaitable-modals.webp "Demo")
+![Demo of awaitable modals. Screen recording of a phone screen with buttons that opens different modal popups.](https://github.com/sarathkcm/react-native-awaitable-modals/raw/main/rn-awaitable-modals.webp "Demo")
