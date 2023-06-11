@@ -13,3 +13,5 @@ an imperative API is so much better and makes sense.
 It's easier to imagine them as temporary UI elements that shows up in response to user actions, instead of something that represents the application state.
 
 Read full article: https://sarathkcm.dev/blog/awaitable-modals-in-react-native
+
+![Demo of awaitable modals. Screen recording of a phone screen with buttons that opens different modal popups.](https://github.com/sarathkcm/react-native-awaitable-modals/raw/main/rrn-awaitable-modals.webp "Demo")
